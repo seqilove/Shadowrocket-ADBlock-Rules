@@ -14,7 +14,7 @@
 
 ## 规则列表
 
-![规则选择指南](https://h2y.github.io/Shadowrocket-ADBlock-Rules/figure/guide.png)
+![规则选择指南](https://h2y.github.io/Shadowrocket-ADBlock-Rules/figure/guide.png?19614)]
 
 规则 | 规定代理的网站 | 规定直连的网站 
 --- | ----------- | ------------- 
@@ -64,11 +64,12 @@
 
 ## 相关推荐
 
-[**糖客**](http://tangke.party/register?aff=56) :100:
+[**糖客翻墙提供商 :100: **](https://tangke.space/register?aff=1077)
 
-我所选择的 SS 提供商，稳定、速度快、价格超便宜，还支持按流量计费。拥有回国节点，新用户免费试用 15 天。
+我所选择的节点提供商。稳定、速度快、价格适中，还支持按流量计费。新用户可以免费试用 15 天。
 
 请大家使用我的推广链接前去注册。
+
 
 [**AppleDNS**](https://github.com/gongjianhui/AppleDNS)
 
@@ -82,7 +83,9 @@ Hosts 生成工具，生成 `在当前所在网络环境下` Apple 服务器的 
 
 **<https://hzy.pw/>**
 
-我是一名大学生，沉迷技术无法自拔。这是我的个人博客，欢迎来逛逛~
+我是一名大学生，沉迷技术无法自拔。这是我的个人博客，欢迎来逛逛。
+
+PS：广告位欢迎与我联系~
 
 
 ## 问题反馈
